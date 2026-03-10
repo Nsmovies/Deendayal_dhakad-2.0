@@ -176,9 +176,9 @@ else:
     ON_HEROKU = False
 HAS_SSL = bool(getenv('HAS_SSL', True))
 if HAS_SSL:
-    URL = "https://protective-vanya-kannadaflixmoviez-fa745fab.koyeb.app/".format(FQDN)
+    URL = "https://satisfactory-minnow-chayadevi-c9d06e58.koyeb.app/".format(FQDN)
 else:
-    URL = "https://protective-vanya-kannadaflixmoviez-fa745fab.koyeb.app/".format(FQDN)
+    URL = "https://satisfactory-minnow-chayadevi-c9d06e58.koyeb.app/".format(FQDN)
 
 # ============================
 # Reactions Configuration
